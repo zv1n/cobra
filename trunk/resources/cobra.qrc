@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect_ico.png</file>
+        <file>images/stop_ico.png</file>
+        <file>images/preferences.png</file>
+        <file>images/userMe.png</file>
+        <file>images/userGuest.png</file>
+        <file>images/userAdmin.png</file>
+        <file>images/connect.png</file>
+        <file>images/cobra_main.png</file>
+        <file>images/Folder_FTP.png</file>
+        <file>images/Network_Connections.png</file>
+        <file>images/pref.png</file>
+        <file>images/upload.png</file>
+        <file>images/upload_icon.png</file>
+        <file>images/add_clip.png</file>
+        <file>images/edit_clip.png</file>
+        <file>images/remove_clip.png</file>
+        <file>images/download_clip.png</file>
+        <file>images/sync_clip.png</file>
+        <file>images/audio.png</file>
+        <file>images/mute.png</file>
+        <file>images/play.png</file>
+        <file>images/timeline.png</file>
+        <file>images/mark.png</file>
+        <file>images/clear.png</file>
+        <file>translations/cobratr_cn.qm</file>
+    </qresource>
+</RCC>
